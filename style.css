@@ -53,3 +53,9 @@ body {
     border-radius: 10px;
     margin-top: 60px;
 }
+
+.bouton {
+    display: inline-block;
+    padding: 10px 20px;
+
+}
