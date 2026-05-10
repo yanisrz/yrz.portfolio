@@ -64,3 +64,21 @@ h2 {
 .projet-card:hover {
     transform: scale(98%);
 }
+
+/*  Boutons  */
+.bouton {
+    display: inline-block;
+    background-color: #1a1a1a;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-size: 0.9em;
+    transition: background 0.3s;
+}
+
+.bouton:hover {
+    background-color: #00ff41;
+    color: #1a1a1a;
+}
