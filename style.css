@@ -29,3 +29,24 @@ body {
     font-size: 3em;
     letter-spacing: 2px;
 }
+
+.soustitre {
+    color: #00ff41;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+/*  tout les h2  */
+h2 {
+    border-bottom: 3px solid #1a1a1a;
+    display: inline-block;
+    padding-bottom: 5px;
+}
+
+.section-moi {
+    background: white;
+    padding: 30px;
+    margin: 40px 0;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
