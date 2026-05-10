@@ -45,7 +45,7 @@ h2 {
 }
 
 .moi {
-    background: rgb(163, 203, 163);
+    background-color: rgba(128, 128, 128, 0.555);
     padding: 30px;
     margin: 0px 0;
     border-radius: 0px;
@@ -57,7 +57,7 @@ h2 {
     margin: 1px auto;
     font-size: 1.1em;
     font-weight: bold;
-    text-align: center;
+    text-align: left;
     max-width: 50%;
 
 }
@@ -91,7 +91,7 @@ h2 {
     transition: background 0.3s;
 }
 
-/*  quand on passe au dessus  */
+/*  Quand on passe au dessus  */
 .bouton:hover {
     background-color: #00ff41;
     color: #1a1a1a;
