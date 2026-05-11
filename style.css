@@ -50,12 +50,13 @@ h2 {
     margin: 0px 0;
     border-radius: 0px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: left;
 
 }
 
 .moi p {
-    margin: 1px auto;
-    font-size: 1.1em;
+    margin: 1px 1px;
+    font-size: 1.2em;
     font-weight: bold;
     text-align: left;
     max-width: 50%;
